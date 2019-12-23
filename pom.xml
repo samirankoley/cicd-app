@@ -37,17 +37,18 @@
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
 				<artifactId>mule-maven-plugin</artifactId>
-				<version>3.2.7</version>
+				<version>3.3.2</version>
+				<extensions>true</extensions>
 				<configuration>
-					<deploymentType>cloudhub</deploymentType>
-					<muleVersion>4.2.0</muleVersion>
-					<username>samiran_koley</username>
-					<password>samb11!H</password>
-					<workerType>Micro</workerType>
-					<redeploy>true</redeploy>
-					<environment>Production</environment>
-					<businessGroup>DevOps</businessGroup>
-					<uri>anypoint.mulesoft.com</uri>					
+					<cloudHubDeployment>
+						<uri>https://anypoint.mulesoft.com</uri>
+						<muleVersion>4.2.0</muleVersion>
+						<username>samiran_koley</username>
+						<password>samb11!H</password>
+						<applicationName>cicd-app</applicationName>
+						<environment>Production</environment>
+						<businessGroup>DevOps</businessGroup>
+					</cloudHubDeployment>
 				</configuration>
 				<executions>
 					<execution>
