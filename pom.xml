@@ -46,7 +46,8 @@
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Production</environment>
-					<businessGroup>DepOps</businessGroup>
+					<businessGroup>DevOps</businessGroup>
+					<uri>anypoint.mulesoft.com</uri>					
 				</configuration>
 				<executions>
 					<execution>
