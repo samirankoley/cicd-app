@@ -47,7 +47,7 @@
 						<password>samb11!H</password>
 						<applicationName>cicd-app</applicationName>
 						<environment>Production</environment>
-						<businessGroup>LnD/DevOps</businessGroup>
+						<businessGroup>WHISHWORKS/LnD/DevOps</businessGroup>
 					</cloudHubDeployment>
 				</configuration>
 				<executions>
