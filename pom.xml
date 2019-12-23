@@ -46,7 +46,7 @@
 						<username>samiran_koley</username>
 						<password>samb11!H</password>
 						<applicationName>cicd-app</applicationName>
-						<environment>Production</environment>
+						<environment>PROD</environment>
 						<businessGroup>LnD/API_Recipe_Book/DevOps</businessGroup>
 						<businessGroupId>5a1efa6d-e32c-440c-b3bb-978fc5ae507b</businessGroupId>
 					</cloudHubDeployment>
