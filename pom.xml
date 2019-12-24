@@ -50,7 +50,7 @@
 						<workerType>MICRO</workerType>
 						<workers>1</workers>
 						<region>us-east-1</region>
-						<businessGroup>LnD/API_Recipe_Book/DevOps</businessGroup>
+						<businessGroup>DevOps</businessGroup>
 						<businessGroupId>5a1efa6d-e32c-440c-b3bb-978fc5ae507b</businessGroupId>
 					</cloudHubDeployment>
 				</configuration>
