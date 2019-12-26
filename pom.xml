@@ -43,8 +43,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.2.0</muleVersion>
-						<username>samiran_koley</username>
-						<password>samb11!H</password>
+						<username>naresh_m</username>
+						<password>Whishworks12!@</password>
 						<applicationName>cicd-app</applicationName>
 						<environment>PROD</environment>
 						<workerType>MICRO</workerType>
